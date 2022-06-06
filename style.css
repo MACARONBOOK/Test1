@@ -76,9 +76,7 @@ footer {
 
 
   main {
-    margin: 50px 0;
-    max-width: 100%;
-    max-height: 100%;
+    width: 90%;
     display: block;
   }
 
@@ -86,24 +84,23 @@ footer {
 
   .step-box {
     width: 100%;
-    padding-bottom: 20px;
+    height: 320px;
+
 
   }
 
 
   .step-box .step-img1 {
-    width: 90%;
-
+    width: 95%;
 
   }
 
   .step-box .step-img2 {
-   width: 90%;
-
+   width: 95%;
   }
 
   .step-box .step-img3 {
-    width:90%;
+    width:95%;
 
   }
 
@@ -112,7 +109,8 @@ footer {
   }
 
   .step-text {
-    width: 90%;
+    width: 95%;
+    margin-bottom: 20px;
   }
 
   .title {
